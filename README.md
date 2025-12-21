@@ -1,2 +1,2 @@
 # Brickfactory
-Live sound engineering plattform
+Live sound engineering platform
